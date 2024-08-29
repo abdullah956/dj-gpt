@@ -1,1 +1,1 @@
-# django-chatbot
+# dj-gpt
